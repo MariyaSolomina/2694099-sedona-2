@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2694099).
-* Наставник: `Неизвестно`.
+* Студент: [Мария Соломина] (https://up.htmlacademy.ru/htmlcss-individual/2/user/2694099).
+* Наставник: `Александр  Лесухин`.
 
 ---
 
