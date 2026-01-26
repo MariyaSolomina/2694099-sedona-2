@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Мария Соломина] (https://up.htmlacademy.ru/htmlcss-individual/2/user/2694099).
-* Наставник: `Александр  Лесухин`.
+* Наставник: [Александр  Лесухин] (https://htmlacademy.ru/profile/caneklis).
 
 ---
 
