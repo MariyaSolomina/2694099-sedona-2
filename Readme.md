@@ -2,6 +2,7 @@
 
 * Студент: [Мария Соломина] (https://up.htmlacademy.ru/htmlcss-individual/2/user/2694099).
 * Наставник: [Александр  Лесухин] (https://htmlacademy.ru/profile/caneklis).
+* Сайт: [Мой проект Седона] (https://mariyasolomina.github.io/2694099-sedona-2/)
 
 ---
 
